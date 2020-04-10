@@ -11,7 +11,7 @@ Weather Forecast current Data in Kotlin using the components ViewModel, LiveData
 
 <img src="assets/kotlinmvvmscreenrotation720.gif?raw=true" height="480">
 
-<img src="assets/kotlinmvvm720.gif?raw=true" height="480"> 
+<img src="assets/kotlinmvvm720.mp4?raw=true" height="480"> 
 
  
 ## Screenshots
