@@ -12,13 +12,6 @@ Weather Forecast current Data in Kotlin using the components ViewModel, LiveData
 <img src="assets/kotlinmvvm720.gif?raw=true" height="480"> 
 
  
-## Screenshots
-
-<img src="assets/screenshot.png" height="480"> <img src="assets/screenshot_error.png" height="480"> <img src="assets/screenshot_empty.png" height="480">
-
-<img src="assets/unit_tests.png" height="196"> 
-
-
 ## Dependencies
 
 - Retrofit 2 [version: '2.3.0'](https://square.github.io/retrofit/)
