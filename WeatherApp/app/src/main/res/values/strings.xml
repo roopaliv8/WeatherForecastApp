@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="empty_list">No Data found!</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="step1">Step1</string>
+    <string name="step2">Step 2</string>
+    <string name="Done">Done</string>
+    <string name="weatherdata">WeatherData</string>
+    <string name="forecastdata">ForecastData</string>
+    <string name="selctcity">Select City</string>
+</resources>
