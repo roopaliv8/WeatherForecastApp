@@ -1,76 +1,83 @@
 {
-  "data": [
+  "cnt": 2,
+  "list": [
     {
-      "id": 0,
-      "name": "Museo Nacional de Arqueología, Antropología e Historia del Perú",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_1493925752.jpg"
+      "coord": {
+        "lon": 47.16,
+        "lat": 34.33
+      },
+      "sys": {
+        "country": "IR",
+        "timezone": 16200,
+        "sunrise": 1586485564,
+        "sunset": 1586531922
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "main": {
+        "temp": 294.15,
+        "feels_like": 287.73,
+        "temp_min": 294.15,
+        "temp_max": 294.15,
+        "pressure": 1009,
+        "humidity": 32
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 7.2,
+        "deg": 250
+      },
+      "clouds": {
+        "all": 75
+      },
+      "dt": 1586516703,
+      "id": 833,
+      "name": "Ḩeşār-e Sefīd"
     },
     {
-      "id": 1,
-      "name": "Museo de Sitio Pachacamac",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_17168651.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Casa Museo José Carlos Mariátegui",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_235364946.JPG?itok=5a5aFotD"
-    },
-    {
-      "id": 3,
-      "name": "Museo de Sitio Julio C. Tello' de Paracas",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_1167672852.jpg?itok=Wvy-CGoV"
-    },
-    {
-      "id": 4,
-      "name": "Museo Regional de Ica \"Adolfo Bermúdez Jenkins\"",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_745535982.JPG?itok=_re0JRaP"
-    },
-    {
-      "id": 5,
-      "name": "Museo de Arte Italiano",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_1797320730.JPG?itok=EutdfVa7"
-    },
-    {
-      "id": 6,
-      "name": "Museo de Sitio \"Arturo Jiménez Borja\" - Puruchuco",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_796766328.JPG?itok=jJ9T9lWq"
-    },
-    {
-      "id": 7,
-      "name": "Lugar de la Memoria, la Tolerancia y la Inclusión Social",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_760640076.jpg?itok=VBHjuSRL"
-    },
-    {
-      "id": 8,
-      "name": "Museo Nacional de la Cultura Peruana",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_638909628.jpg?itok=wutcgLqc"
-    },
-    {
-      "id": 9,
-      "name": "Museo Amazónico",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_1274388978.JPG?itok=nBeBtO3a"
-    },
-    {
-      "id": 10,
-      "name": "Museo de Sitio de Quinua",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_183086792.JPG?itok=PQVlEBIW"
-    },
-    {
-      "id": 11,
-      "name": "Museo Lítico de Pukara",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_751702186.JPG?itok=ktFmXpYw"
-    },
-    {
-      "id": 12,
-      "name": "ala de Oro del Museo Municipal Vicús",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_1959748163.jpg?itok=8i_4oIqM"
-    },
-    {
-      "id": 13,
-      "name": "Museo Arqueológico y Etnográfico del Conjunto Monumental Belén",
-      "photo": "http://museos.cultura.pe/sites/default/files/styles/museos_portada/public/museos/imagen/rnm_1963298728.jpg"
+      "coord": {
+        "lon": 36.32,
+        "lat": 34.94
+      },
+      "sys": {
+        "country": "SY",
+        "timezone": 10800,
+        "sunrise": 1586488131,
+        "sunset": 1586534557
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "main": {
+        "temp": 289.15,
+        "feels_like": 287.29,
+        "temp_min": 289.15,
+        "temp_max": 289.15,
+        "pressure": 1010,
+        "humidity": 72
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 3.1,
+        "deg": 180
+      },
+      "clouds": {
+        "all": 75
+      },
+      "dt": 1586516705,
+      "id": 2960,
+      "name": "Ayn Halaqim"
     }
-  ],
-  "msg": "success",
-  "status": 200
+  ]
 }
